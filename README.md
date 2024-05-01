@@ -15,6 +15,8 @@
 
 ## Demo
 
+![demo](https://github.com/kexplo/projectyee_prototype/assets/186918/d737be39-562a-4a69-9dcf-3b412c9d8920)
+
 ![demo.mov](./demo.mov)
 
 ## TODOs
