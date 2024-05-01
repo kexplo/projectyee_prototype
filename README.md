@@ -1,5 +1,7 @@
 # ProjectYee
 
+Privacy-safe AI tool that anyone can use without knowing the AI powered by the Local LLM technology.
+
 ## Key Features (Objectives)
 
 - ChatGPT-like conversational interface with multiple LLM models
@@ -21,7 +23,14 @@
 
 ## TODOs
 
+- [x] Electron packaging
+- [x] Manage(Spawn/Kill) local LLM models using llamafile
+- [x] (Frontend) Conversation UI
+- [x] Auto summarization of the conversation
+  - [ ] Tune the summarization prompt
 - [ ] Using multiple LLM models in single conversation
+  - [ ] Using OpenAI API with local models
 - [ ] Download GGUF models from the Huggingface
 - [ ] Chat with uploaded files in the conversation (RAG)
-
+  - [ ] Upload files to the conversation
+  - [ ] Manage Vector DB
